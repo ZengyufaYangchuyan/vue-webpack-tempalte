@@ -14,7 +14,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.5",
     "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
